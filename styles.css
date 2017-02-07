@@ -1,0 +1,20 @@
+.largerText{
+  font-size: 50px;
+  color: #eee;
+  background-color: #000;
+}
+.red {
+  color: red;
+
+}
+body {
+  background-color: #000;
+}
+
+.remove-underline {
+  text-decoration: none;
+}
+
+.inline {
+  display: inline;
+}
